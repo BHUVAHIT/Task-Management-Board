@@ -1,3 +1,55 @@
+# Task Management Board
+
+A simple task management board built with React.
+
+
+
+## Introduction
+
+This project is a task management board that helps users organize their tasks into different columns such as "To Do List," "In Progress," and "Done." It is built using React and allows users to create, edit, and delete tasks with due dates.
+
+## Features
+
+- Create, edit, and delete tasks
+- Organize tasks into different columns
+- Drag and drop functionality for easy task management
+
+## Getting Started
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/BHUVAHIT/Task-Management-Board.git
+
+2. install node modules using npm install.
+3. run commadn npm start then you project is run on browser.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
